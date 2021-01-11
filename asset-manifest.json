@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nba-world/static/css/main.70d8f669.chunk.css",
-    "main.js": "/nba-world/static/js/main.6550fca0.chunk.js",
-    "main.js.map": "/nba-world/static/js/main.6550fca0.chunk.js.map",
+    "main.js": "/nba-world/static/js/main.cee03aea.chunk.js",
+    "main.js.map": "/nba-world/static/js/main.cee03aea.chunk.js.map",
     "runtime-main.js": "/nba-world/static/js/runtime-main.f70a2c96.js",
     "runtime-main.js.map": "/nba-world/static/js/runtime-main.f70a2c96.js.map",
     "static/js/2.547b4965.chunk.js": "/nba-world/static/js/2.547b4965.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f70a2c96.js",
     "static/js/2.547b4965.chunk.js",
     "static/css/main.70d8f669.chunk.css",
-    "static/js/main.6550fca0.chunk.js"
+    "static/js/main.cee03aea.chunk.js"
   ]
 }
